@@ -19,6 +19,10 @@ author_profile: true
 
 - **[Natural orbital description of the halo nucleus <sup>6</sup>He](https://link.springer.com/article/10.1007/s41365-017-0332-6)** **Chrysovalantis Constantinou**, Mark Caprio, James Vary, Pieter Maris. In _Nuclear Science and Techniques_ 2017
 
+### 2012
+
+- **[Generalized seniority with realistic interactions in open-shell nuclei](https://iopscience.iop.org/article/10.1088/0954-3899/39/10/105108/meta)** Mαρκ Caprio, Fengqiao Luo, Ke Cai, **Chrysovalantis Constantinou** and Veerle Hellemans. In _Journal of Physics G: Nuclear and Particle Physics_ 2012
+
 
 
 
