@@ -10,7 +10,9 @@ author_profile: true
 ### 2022
 
 - **[Natural orbitals for the ab initio no-core configuration interaction approach](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.054301).** Patrick Fasano,
-**Chrysovalantis Constantinou**, Mark Caprio, Pieter Maris, James Vary. In _Phys Rev C_ 2022
+**Chrysovalantis Constantinou**, Mark Caprio, Pieter Maris, James Vary. In _Physical Review C_ 2022
+
+- **[SexEst: An open access web application for metric skeletal sex estimation](https://doi.org/10.1002/oa.3109).** **Chrysovalantis Constantinou**, Efthymia Nikita. In _International Journal of osteoarcheology_ 2022
 
 
 
