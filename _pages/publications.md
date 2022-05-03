@@ -35,6 +35,12 @@ author_profile: true
 
 - **[Generalized seniority in a major shell with realistic interactions](https://doi.org/10.1063/1.4759401)** Mark Caprio, Fengqiao Luo, Ke Cai, Veerle Hellemans, **Chrysovalantis Constantinou**. In _Beauty in Physics: Theory and Experiment, ed. R. Bijker et al., AIP Conference Proceedings_ 2012
 
+### Doctoral Dissertation
+
+### 2017
+
+- **[Natural orbitals for the no-core configuration interaction approach](https://curate.nd.edu/show/ff365427x19)** **Chrysovalantis Constantinou** 2017
+
 
 
 
