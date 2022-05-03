@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Applied Mathematics and Physical Sciences, National Techanical University of Athens, Athens, Greece, 2009
+* M.S. in Physics, University of Notre Dame, Notre Dame, IN, 2014
+* Ph.D in Theoretical Nuclear Physics, University of Notre Dame, Notre Dame, IN, 2017
 
 Work experience
 ======
