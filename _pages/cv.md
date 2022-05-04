@@ -17,7 +17,32 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2019-present: Computational Scientist 
+  * The Cyprus Institute, Computation-based Science and Technology Research Center
+  * Duties included: 
+
+* 2017-2019: Visiting Assistant Professor
+  * Monmouth College, Physics Department
+  * Duties included: 
+
+* 2016-2017: Postdoctoral Research Associate 
+  * Yale University, Physics Department
+  * Duties included: 
+
+* 2015-2016: Graduate Research Assistant 
+  * University of Notre Dame, Physics Department
+  * Duties included: 
+
+* 2009-2015: Graduate Teaching Assistant
+  * University of Notre Dame, Physics Department
+  * Duties included: 
+
+
+
+
+
+
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -25,16 +50,16 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
-* Skill 1
+* Scientific 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 <!-- Publications
 ======
