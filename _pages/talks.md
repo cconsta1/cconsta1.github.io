@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2022
 
-- Conference: “**Deploying Machine Learning Models for Forensic Anthropological Applications with Docker and Streamlit**” for “**DockerCon 2022**” at the Docker Conference, Virtual, May 2022
+- Conference: “**Deploying Machine Learning Models for Forensic Anthropological Applications with Docker and Streamlit**” for “**DockerCon 2022**” at the Docker Conference, Virtual, USA, May 2022
 
 ### 2020
 
