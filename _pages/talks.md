@@ -13,7 +13,7 @@ author_profile: true
 
 ### 2020
 
-- Presentation: “**Open science and FAIR principles**” for “**First NI4OS-Europe capacity-building event for Cyprus**” at the Cyprus Institute, Nicosia, Cyprus, November 2020
+- Presentation: “**Open science and FAIR principles**” for “**First NI4OS-Europe capacity-building event for Cyprus**” at the Cyprus Institute, Nicosia, Cyprus, October 2020
 
 ### 2017
 
