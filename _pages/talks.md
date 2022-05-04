@@ -7,6 +7,10 @@ author_profile: true
 
 ## Talks and Conference Presentations
 
+### 2022
+
+- Conference: “**Deploying Machine Learning Models for Forensic Anthropological Applications with Docker and Streamlit**” for “**DockerCon 2022**” at the Docker Conference, Virtual, May 2022
+
 ### 2020
 
 - Presentation: “**Open science and FAIR principles**” for “**First NI4OS-Europe capacity-building event for Cyprus**” at the Cyprus Institute, Nicosia, Cyprus, November 2020
