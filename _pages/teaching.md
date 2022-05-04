@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Classes
-======
+
 
 * PHYS 77031: Review of Fundamental Physics II 
     * University of Notre Dame, Indiana, Summer Session 2016
