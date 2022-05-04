@@ -39,6 +39,6 @@ Argonne National Laboratory, Chicago, Illinois, September 2015
 
 ### 2014
 
-- Conference: **[Scaling properties for no-core configuration interaction calculations using the harmonic oscillator basis and the JISP16 interaction](https://absimage.aps.org/image/APR14/MWS_APR14-2014-000828.pdf)**” at the “**American Physical Society April Meeting**” at Savannah, Georgia, April 2014
+- Conference: **[Scaling properties for no-core configuration interaction calculations using the harmonic oscillator basis and the JISP16 interaction](https://absimage.aps.org/image/APR14/MWS_APR14-2014-000828.pdf)** at the “**American Physical Society April Meeting**” at Savannah, Georgia, April 2014
 
 
