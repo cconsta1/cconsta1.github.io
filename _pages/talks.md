@@ -9,6 +9,8 @@ author_profile: true
 
 ### 2022
 
+- Conference: “**Open access web application for metric skeletal sex estimation**” at the “**EOSC Regional Event**” in Budapest, Hungary, September 2022
+
 - Presentation: “**FAIR data and FAIR principles**” for “**NI4OS-Europe End-Users training event**” at the Cyprus Institute, Nicosia, Cyprus, June 2022
 
 - Conference: **[Deploying Machine Learning Models for Forensic Anthropological Applications with Docker and Streamlit](https://docker.events.cube365.net/dockercon/2022/content/Videos/2f0855fc-4719-4925-89c1-3f25e68e7aa6)** for “**DockerCon 2022**” at the Docker Conference, Virtual, USA, May 2022
@@ -19,13 +21,13 @@ author_profile: true
 
 ### 2017
 
-- Workshop: “**Natural orbitals for the no-core configuration interaction approach**” at “**Workshop on _ab initio_ nuclear theory**” at Iowa State University, Ames, Iowa, December 2017
+- Workshop: “**Natural orbitals for the no-core configuration interaction approach**” at “**Workshop on _ab initio_ nuclear theory**” in Iowa State University, Ames, Iowa, December 2017
 
-- Conference: “**Cluster orbitals for the mirror nuclei <sup>7</sup>Li and <sup>7</sup>Be**” at the “**Division of Nuclear Physics Meeting**” at Pittsburgh, Pennsylvania, October 2017
+- Conference: “**Cluster orbitals for the mirror nuclei <sup>7</sup>Li and <sup>7</sup>Be**” at the “**Division of Nuclear Physics Meeting**” in Pittsburgh, Pennsylvania, October 2017
 
 ### 2016 
 
-- Conference: “**_Ab initio_ no-core configuration interaction calculations of electromagnetic observables for _p_-shell nuclei**” at the “**Division of Nuclear Physics Meeting**” at 
+- Conference: “**_Ab initio_ no-core configuration interaction calculations of electromagnetic observables for _p_-shell nuclei**” at the “**Division of Nuclear Physics Meeting**” in 
 Vancouver, British Columbia, Canada, October 2016
 
 - Conference: “**Accelerating the convergence of no-core configuration interaction calculations using natural orbitals**” at the “**Midwest Theory Get-Together**” at 
@@ -33,7 +35,7 @@ Argonne National Laboratory, Chicago, Illinois, September 2016
 
 ### 2015
 
-- Conference: “**_Ab initio_ no-core configuration interaction calculations in the natural orbital basis**” at the “**Division of Nuclear Physics Meeting**” at 
+- Conference: “**_Ab initio_ no-core configuration interaction calculations in the natural orbital basis**” at the “**Division of Nuclear Physics Meeting**” in 
 Santa Fe, New Mexico, October 2015
 
 - Conference: “**The natural orbital basis for no-core configuration interaction calculations**” at the “**Midwest Theory Get-Together**” at 
@@ -41,6 +43,6 @@ Argonne National Laboratory, Chicago, Illinois, September 2015
 
 ### 2014
 
-- Conference: **[Scaling properties for no-core configuration interaction calculations using the harmonic oscillator basis and the JISP16 interaction](https://absimage.aps.org/image/APR14/MWS_APR14-2014-000828.pdf)** at the “**American Physical Society April Meeting**” at Savannah, Georgia, April 2014
+- Conference: **[Scaling properties for no-core configuration interaction calculations using the harmonic oscillator basis and the JISP16 interaction](https://absimage.aps.org/image/APR14/MWS_APR14-2014-000828.pdf)** at the “**American Physical Society April Meeting**” in Savannah, Georgia, April 2014
 
 
