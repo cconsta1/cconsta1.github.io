@@ -19,25 +19,28 @@ Work experience
 ======
 * 2019-present: Computational Scientist 
   * The Cyprus Institute, Computation-based Science and Technology Research Center
-  * Duties included: 
+  * Duties include: Writing delivarables, organizing training events, and collecting
+  information for the NI4OS-Europe project, working on machine learning techniques
+  in archaelogy, writing code for 3D model viewing in the web
 
 * 2017-2019: Visiting Assistant Professor
   * Monmouth College, Physics Department
-  * Duties included: 
+  * Duties included: Teaching physics classes and mentoring undergraduate 
+  students in short research projects
 
 * 2016-2017: Postdoctoral Research Associate 
   * Yale University, Physics Department
-  * Duties included: 
+  * Duties included: Research in low energy nuclear physics and writing code to study 
+  the structure of light nuclei
 
 * 2015-2016: Graduate Research Assistant 
   * University of Notre Dame, Physics Department
-  * Duties included: 
+  * Duties included: Research on low energy nuclear physics, writing C++ and python code to perform calculations on the [NERSC](https://www.nersc.gov/) supercomputing machines 
 
 * 2009-2015: Graduate Teaching Assistant
   * University of Notre Dame, Physics Department
-  * Duties included: 
-
-
+  * Duties included: Theoretical nuclear physics research and serving as a teaching 
+  assistant for numerous undergraduate and graduate level physics classes
 
 
 

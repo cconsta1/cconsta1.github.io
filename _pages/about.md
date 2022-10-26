@@ -8,15 +8,47 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computational Scientist at the 
-[Department of Computation-based Science and Technology Research Center](http://castorc.cyi.ac.cy/) of
-[The Cyprus Institute](https://www.cyi.ac.cy/).
-I received my PhD in physics from the University of Notre Dame in 2017.
+Hello and welcome to my page! My name is Chrysovalantis Constantinou 
+and I work as a Computational Scientist at the 
+[Department of Computation-based Science and Technology Research Center](http://castorc.cyi.ac.cy/) 
+of [The Cyprus Institute](https://www.cyi.ac.cy/).
+I mainly work on the [NI4OS-Europe](https://ni4os.eu/) project, 
+an infrustructure project funded by the the European Commission 
+under the Horizon 2020 grant agreement no. 857645.
+The project strives to help scientists and researchers in South-Eastern Europe to
+on-board their services (repositories, web applications, cloud clusters,
+high-performance computer clusters, etc) onto the European Open Science cloud, 
+where the services will be readily available for citizens
+and researchers in Europe.
+
+Concurently, I work on osteoarcheology research projects and specifically using
+machine learning techniques on bone datasets from throughout the world. The goal
+is to build models that predict the age, the sex, or other properties of skeletons based either on metric measurements, or other properties of the skeleton. 
+The models created are then used in web applications 
+in order to make predictions on unknown skeletons. 
+An example of such service can be found [here](http://sexest.cyi.ac.cy/).
 
 
-My research interests lie in the fields of theoretical nuclear physics,
-computational physics, and machine learning. I also 
-develop code related to visualizing 3D models in websites and repositories.
+Additionally, I am a code contributor to [clowder](https://clowderframework.org/),
+a data curation web application used by researchers as a repository of digital 
+cultural heritage data (or other data). My main contribution to the project is in 
+creating 3D model previewers. 
+
+I am also interested in theoretical physics which was the subject I focused
+on during my doctorate studies. Specifically, I am interetsed in using high 
+perfrmace computing to unveal the structure of nuclei such as <sup>6</sup>He, <sup>7</sup>Li, <sup>7</sup>Be, that are important in stellar burning processes but also
+for low energy nuclear reactions. 
+
+
+To summarize, I'm interested in using theoretical and computational techniques to 
+solve problems related to nuclear physics (and physics in general), in using
+machine learning techniques on any available dataset, trying to squeeze information
+about the system described by those data, and finally I'm fascinated by using 
+3D models in websites and games, an example of such usage 
+can be found in [this](https://threejs-car-physics-demo.vercel.app/) web app I set up.
+
+
+
 
 
 
