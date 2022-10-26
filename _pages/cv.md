@@ -12,11 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Theoretical Nuclear Physics, University of Notre Dame, Notre Dame, IN, 2017
-
 * M.S. in Physics, University of Notre Dame, Notre Dame, IN, 2014
-
 * Diploma in Applied Mathematics and Physical Sciences, National Techanical University of Athens, Athens, Greece, 2009
-
 
 Work experience
 ======
@@ -41,7 +38,7 @@ Work experience
 * 2009-2015: Graduate Teaching Assistant
   * University of Notre Dame, Physics Department
   * Duties included: Theoretical nuclear physics research and serving as a teaching 
-  assistant for numerous undergraduate and graduate-level physics classes
+  assistant for numerous undergraduate and graduatelevel physics classes
 
 
 
