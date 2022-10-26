@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://cconsta1.github.io/files/cv_cconstantinou_20221026.pdf" type="application/pdf" width="600px" height="500px" />
-
 Education
 ======
 * Ph.D in Theoretical Nuclear Physics, University of Notre Dame, Notre Dame, IN, 2017
