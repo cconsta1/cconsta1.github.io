@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Diploma in Applied Mathematics and Physical Sciences, National Techanical University of Athens, Athens, Greece, 2009
-* M.S. in Physics, University of Notre Dame, Notre Dame, IN, 2014
 * Ph.D in Theoretical Nuclear Physics, University of Notre Dame, Notre Dame, IN, 2017
+
+* M.S. in Physics, University of Notre Dame, Notre Dame, IN, 2014
+
+* Diploma in Applied Mathematics and Physical Sciences, National Techanical University of Athens, Athens, Greece, 2009
+
 
 Work experience
 ======
