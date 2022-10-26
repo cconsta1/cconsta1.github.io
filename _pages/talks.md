@@ -9,7 +9,11 @@ author_profile: true
 
 ### 2022
 
-- Conference: “**Open access web application for metric skeletal sex estimation**” at the “**EOSC Regional Event**” in Budapest, Hungary, September 2022
+- Invited talk: “**NI4OS-Europe via an example service: SexEst**” for “**Hungarian Open Science Forum**”, Virtual, Hungary, October 2022 
+
+
+- Conference:  “**Open access web application for metric skeletal sex estimation**” at the “**EOSC Regional Event**” in Budapest, Hungary, September 2022
+
 
 - Presentation: “**FAIR data and FAIR principles**” for “**NI4OS-Europe End-Users training event**” at the Cyprus Institute, Nicosia, Cyprus, June 2022
 
