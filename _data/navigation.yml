@@ -14,11 +14,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
+  - title: "Experience"
+    url: /experience/
+
   - title: "CV"
     url: /cv/
-
-  - title: "CV (PDF)"
-    url: /cv_pdf/
     
   # - title: "Guide"
   #   url: /markdown/
