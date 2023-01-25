@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2019-present: Computational Scientist 
+* 2023-present: Associate Research Scientist 
+  * The Cyprus Institute, Science and Technology in Archaeology and Culture Research Center
+  * Duties include: Developing classification machine learning algorithms for classifying skeletons into age groups along with their associated web applications for deployment. Using agent-based modeling to study the migration patterns of ancient Mediterranean people
+
+* 2019-2023: Computational Scientist 
   * The Cyprus Institute, Computation-based Science and Technology Research Center
   * Duties include: Writing deliverables, organizing training events, collecting information for the NI4OS-Europe project, working on machine-learning techniques in archaeology, and writing code for 3D model viewing on the web
 
