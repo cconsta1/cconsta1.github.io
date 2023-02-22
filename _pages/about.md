@@ -8,49 +8,79 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my page! My name is 
-Chrysovalantis Constantinou, and I work as a Computational Scientist at the [Department of Computation-based Science and Technology Research Center](http://castorc.cyi.ac.cy/) 
-of [The Cyprus Institute](https://www.cyi.ac.cy/). 
+Hello and welcome to my page! I'm Chrysovalantis Constantinou, 
+an Associate Research Scientist at 
+The Science and Technology in Archaeology and Culture 
+Research Center of [The Cyprus Institute](https://www.cyi.ac.cy/). 
+My PI is Associate Professor [Efthymia Nikita](https://cyi.academia.edu/EfthymiaNikita), 
+and together we're using agent-based modelling to study the migration patterns 
+of ancient populations and machine 
+learning to predict the age and sex of skeletons. Previously,
+I was a Computational Scientist at the [Department of Computation-based Science and Technology Research Center](http://castorc.cyi.ac.cy/), also at [The Cyprus Institute](https://www.cyi.ac.cy/). 
 
 
-At the Institute, I am responsible for work package 6 (training and demonstrators) of 
-the [NI4OS-Europe](https://ni4os.eu/) project, an infrastructure project funded by the European Commission 
-under the Horizon 2020 grant agreement no. 857645. The project strives to help 
-researchers in South-Eastern Europe onboard their services (repositories, web 
-applications, etc.) onto the European Open Science cloud. The services will then be 
-readily available for citizens and researchers in Europe.
+My research focuses on using agent-based modeling to study the migration 
+patterns of ancient populations that lived 
+around the Mediterranean Sea, with a particular focus on the Roman period. 
+Together with my PI, we also employ machine learning to create 
+models that predict the age and sex of skeletons. 
+More specifically, we're using machine learning techniques 
+on bone datasets to build models that predict the age, sex, and other properties 
+of skeletons based on metric or ordinal measurements. The constructed models are 
+then used in web applications to help make predictions on 
+unknown skeletons. An example of such a service is [SexEst](http://sexest.cyi.ac.cy/), 
+a web application we developed that uses machine learning to predict 
+the sex of skeletal remains based on a metric measurements.
 
 
-Concurrently, I am working on osteoarcheology research projects. Specifically, we are 
-using machine learning techniques on bone datasets to build models that predict the 
-age, sex, and other properties of skeletons. The models are based either on metric 
-measurements or other properties of the skeleton. The constructed models are then 
-used in web applications to help make predictions on unknown skeletons. An example of 
-such a service can be found [here](http://sexest.cyi.ac.cy/).
+I'm also responsible for work package 6 (training and demonstrators) 
+of the [NI4OS-Europe](https://ni4os.eu/) project, an infrastructure project funded by 
+the European Commission under the Horizon 2020 
+grant agreement no. [857645](https://cordis.europa.eu/project/id/857645). 
+The project aims to help 
+researchers in South-Eastern Europe onboard their services, 
+such as repositories and web applications, onto the 
+[European Open Science cloud](https://eosc-portal.eu/). 
+This will make the services readily 
+available for citizens and researchers in Europe. 
+NI4OS-Europe is a critical infrastructure project that 
+aims to accelerate the uptake of open science in the region. 
+My role in work package 6 involves developing training 
+materials and demonstrations, and to help researchers 
+effectively onboard their services onto the cloud.
 
 
-Additionally, I am a code contributor to [clowder](https://clowderframework.org/), 
-a data curation web application used by researchers as a repository 
-for digital cultural heritage data (or other data). 
-My main contribution to the project is in creating 3D model previewers.
+Additionally, I'm a code contributor to [clowder](https://clowderframework.org/), 
+an open-source data curation platform designed to help 
+researchers manage and share their data. The platform 
+offers a wide range of tools and features, including 3D 
+model previewers, which are an essential tool for researchers 
+working with 3D models. My main contribution to the project is 
+in creating 3D model previewers, which allow researchers to 
+easily visualize their models. 
 
 
-I am also interested in theoretical physics which was the subject I focused on during 
+
+Finally, I am also interested in theoretical physics which was the subject of 
 my doctorate studies. Specifically, I am interested in using high-performance 
 computing to study the structure of nuclei such as 
 <sup>6</sup>He, <sup>7</sup>Li, and <sup>7</sup>Be, which are 
 important in stellar burning processes but also in low-energy nuclear reactions.
+Due to my exposure to machine learning I am now also interested in using machine 
+learning in nuclear physics.
 
 
 To summarize, I’m interested in using theoretical and computational techniques to 
 solve problems related to nuclear physics (and physics in general), in using machine 
-learning techniques on any available dataset, trying to squeeze information about the 
-system described by the data, and finally, I’m fascinated by using 3D models in 
-websites and games, an example of such usage can be found 
-in [this](https://threejs-car-physics-demo.vercel.app/) web app I set up.
+learning techniques on any available dataset, and, finally, 
+I’m fascinated by 3D models and their use in 
+websites and games. You can find an example of such usage
+in [this](https://threejs-car-physics-demo.vercel.app/) web app.
 
 
-
+Thank you for visiting my page, and please feel free to reach 
+out if you have any questions or if you're 
+interested in collaborating on any of my ongoing research projects.
 
 
 <!-- A data-driven personal website
