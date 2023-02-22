@@ -16,7 +16,7 @@ My PI is Associate Professor [Efthymia Nikita](https://cyi.academia.edu/Efthymia
 and together we're using agent-based modeling to study the migration patterns 
 of ancient populations and machine 
 learning to predict the age and sex of skeletons. Previously,
-I was a Computational Scientist at the [Department of Computation-based Science and Technology Research Center](http://castorc.cyi.ac.cy/), also at [The Cyprus Institute](https://www.cyi.ac.cy/). 
+I was a Computational Scientist at the [Department of Computation-based Science and Technology Research Center](http://castorc.cyi.ac.cy/), also at The Cyprus Institute. 
 
 
 My research focuses on using agent-based modeling to study the migration 
