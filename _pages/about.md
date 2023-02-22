@@ -13,7 +13,7 @@ an Associate Research Scientist at
 The Science and Technology in Archaeology and Culture 
 Research Center of [The Cyprus Institute](https://www.cyi.ac.cy/). 
 My PI is Associate Professor [Efthymia Nikita](https://cyi.academia.edu/EfthymiaNikita), 
-and together we're using agent-based modelling to study the migration patterns 
+and together we're using agent-based modeling to study the migration patterns 
 of ancient populations and machine 
 learning to predict the age and sex of skeletons. Previously,
 I was a Computational Scientist at the [Department of Computation-based Science and Technology Research Center](http://castorc.cyi.ac.cy/), also at [The Cyprus Institute](https://www.cyi.ac.cy/). 
@@ -30,7 +30,7 @@ of skeletons based on metric or ordinal measurements. The constructed models are
 then used in web applications to help make predictions on 
 unknown skeletons. An example of such a service is [SexEst](http://sexest.cyi.ac.cy/), 
 a web application we developed that uses machine learning to predict 
-the sex of skeletal remains based on a metric measurements.
+the sex of skeletal remains based on metric measurements.
 
 
 I'm also responsible for work package 6 (training and demonstrators) 
@@ -54,7 +54,7 @@ Additionally, I'm a code contributor to [clowder](https://clowderframework.org/)
 an open-source data curation platform designed to help 
 researchers manage and share their data. The platform 
 offers a wide range of tools and features, including 3D 
-model previewers, which are an essential tool for researchers 
+model previewers, which are essential for researchers 
 working with 3D models. My main contribution to the project is 
 in creating 3D model previewers, which allow researchers to 
 easily visualize their models. 
@@ -66,7 +66,7 @@ my doctorate studies. Specifically, I am interested in using high-performance
 computing to study the structure of nuclei such as 
 <sup>6</sup>He, <sup>7</sup>Li, and <sup>7</sup>Be, which are 
 important in stellar burning processes but also in low-energy nuclear reactions.
-Due to my exposure to machine learning I am now also interested in using machine 
+Due to my exposure to machine learning, I am now also interested in using machine 
 learning in nuclear physics.
 
 
