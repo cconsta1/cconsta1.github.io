@@ -102,7 +102,7 @@ this in the
 <a href='https://threejs-car-physics-demo.vercel.app/'>Three.js car physics demo</a> 
 web app. Finally, I'm also fascinated by the use of agent-based 
 modeling to study the migration patterns 
-of ancient populations.
+of ancient populations. <br> <br>
 
 
 Thank you for visiting my page, and please feel free to reach 
