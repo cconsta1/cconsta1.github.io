@@ -9,18 +9,19 @@ author_profile: true
 
 
 
-University of Notre Dame, Indiana:
+# University of Notre Dame, Indiana:
 
-- PHYS 77031: Review of Fundamental Physics II (graduate level), Summer 2016
+## Summer 2016:
+- PHYS 77031: Review of Fundamental Physics II (graduate level)
 
-Monmouth College, Illinois:
+# Monmouth College, Illinois:
 
-Fall 2018:
+## Fall 2018:
 - PHYS 130: Introductory Physics I (introductory level)
 - PHYS 208: Classical Mechanics (intermediate level)
 - PHYS 311: Mathematical Methods for Physicists (advanced level)
 
-Spring 2018, 2019:
+## Spring 2018, 2019:
 - PHYS 132: Introductory Physics II (introductory level)
 - PHYS 303: Advanced Electromagnetism (advanced level, topics include Maxwell's equations, electric and magnetic fields, and electromagnetic waves)
 
