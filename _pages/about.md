@@ -18,11 +18,11 @@ My PI is Associate
 Professor <a href="https://cyi.academia.edu/EfthymiaNikita">Efthymia Nikita</a>, 
 and together we're using agent-based modeling to study the migration patterns 
 of ancient populations and machine 
-learning to predict the age and sex of skeletons. Previously,
-I was a Computational Scientist 
+learning to predict the age and sex of skeletons. I also held 
+the position of a Computational Scientist 
 at the 
 <a href="http://castorc.cyi.ac.cy/">Department of Computation-based Science and Technology Research Center</a>, 
-also at The Cyprus Institute. <br\>
+also at The Cyprus Institute, until 2022. <br>
 
 
 My research focuses on using agent-based modeling to study the migration 
@@ -34,46 +34,56 @@ More specifically, we're using machine learning techniques
 on bone datasets to build models that predict the age, sex, and other properties 
 of skeletons based on metric or ordinal measurements. The constructed models are 
 then used in web applications to help make predictions on 
-unknown skeletons. An example of such a service is [SexEst](http://sexest.cyi.ac.cy/), 
+unknown skeletons. An example of such a service is 
+<a href="http://sexest.cyi.ac.cy/">SexEst</a>, 
 a web application we developed that uses machine learning to predict 
-the sex of skeletal remains based on metric measurements.
+the sex of skeletal remains based on metric measurements. <br>
 
 
 I'm also responsible for work package 6 (training and demonstrators) 
-of the [NI4OS-Europe](https://ni4os.eu/) project, an infrastructure project funded by 
+of the <a href="https://ni4os.eu/">NI4OS-Europe</a> 
+project, an infrastructure project funded by 
 the European Commission under the Horizon 2020 
-grant agreement no. [857645](https://cordis.europa.eu/project/id/857645). 
+grant agreement no. <a href="https://cordis.europa.eu/project/id/857645">857645</a>. 
 The project aims to help 
 researchers in South-Eastern Europe onboard their services, 
 such as repositories and web applications, onto the 
-[European Open Science cloud](https://eosc-portal.eu/). 
+<a href="https://eosc-portal.eu/">European Open Science cloud</a>. 
 This will make the services readily 
 available for citizens and researchers in Europe. 
 NI4OS-Europe is a critical infrastructure project that 
 aims to accelerate the uptake of open science in the region. 
 My role in work package 6 involves developing training 
 materials and demonstrations, and to help researchers 
-effectively onboard their services onto the cloud.
+effectively onboard their services onto the cloud. <br>
 
 
-Additionally, I'm a code contributor to [clowder](https://clowderframework.org/), 
+Additionally, I'm a code contributor to 
+<a href="https://clowderframework.org/">clowder</a>, 
 an open-source data curation platform designed to help 
 researchers manage and share their data. The platform 
 offers a wide range of tools and features, including 3D 
 model previewers, which are essential for researchers 
 working with 3D models. My main contribution to the project is 
 in creating 3D model previewers, which allow researchers to 
-easily visualize their models. 
+easily visualize their models. <br>
 
 
 
-Finally, I am also interested in theoretical physics which was the subject of 
-my doctorate studies. Specifically, I am interested in using high-performance 
-computing to study the structure of nuclei such as 
-<sup>6</sup>He, <sup>7</sup>Li, and <sup>7</sup>Be, which are 
-important in stellar burning processes but also in low-energy nuclear reactions.
-Due to my exposure to machine learning, I am now also interested in using machine 
-learning in nuclear physics.
+Finally, I am also interested in theoretical physics 
+which was the subject of my doctorate studies 
+and my first post-doctoral appointment, 
+under Professor <a href="https://physics.nd.edu/people/mark-caprio/">Mark Caprio</a> 
+at the University of Notre Dame, 
+and Professor <a href="https://francesco.iachello.yale.edu/">Francesco Iachello</a> 
+at Yale University respectively. 
+Specifically, I am interested in using 
+high-performance computing to study 
+the structure of nuclei such as <sup>6</sup>He, <sup>7</sup>Li, and <sup>7</sup>Be, 
+which are important in stellar burning 
+processes but also in low-energy nuclear reactions. 
+Due to my exposure to machine learning, I am also interested in 
+using machine learning in nuclear physics. <br>
 
 
 To summarize, I’m interested in using theoretical and computational techniques to 
@@ -81,7 +91,7 @@ solve problems related to nuclear physics (and physics in general), in using mac
 learning techniques on any available dataset, and, finally, 
 I’m fascinated by 3D models and their use in 
 websites and games. You can find an example of such usage
-in [this](https://threejs-car-physics-demo.vercel.app/) web app.
+in <a href="https://threejs-car-physics-demo.vercel.app/">this</a> web app. <br>
 
 
 Thank you for visiting my page, and please feel free to reach 
