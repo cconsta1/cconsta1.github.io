@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 ### Refereed Articles
 
 ### 2023
@@ -52,6 +53,8 @@ Mark Caprio, Fengqiao Luo, Ke Cai, Veerle Hellemans, **Chrysovalantis Constantin
 
 - **[Natural orbitals for the no-core configuration interaction approach](https://curate.nd.edu/show/ff365427x19)** \
 **Chrysovalantis Constantinou** 2017
+
+
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

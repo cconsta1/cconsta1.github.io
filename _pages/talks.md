@@ -5,7 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-
 ### 2022
 
 - Invited talk: **NI4OS-Europe via an example service: SexEst** for the **Hungarian Open Science Forum**, Virtual, Hungary, October 2022 
@@ -46,5 +45,4 @@ Argonne National Laboratory, Chicago, Illinois, September 2015
 ### 2014
 
 - Conference: **[Scaling properties for no-core configuration interaction calculations using the harmonic oscillator basis and the JISP16 interaction](https://absimage.aps.org/image/APR14/MWS_APR14-2014-000828.pdf)** at the **American Physical Society April Meeting** in Savannah, Georgia, April 2014
-
 

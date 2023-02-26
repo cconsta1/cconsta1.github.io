@@ -9,7 +9,6 @@ author_profile: true
 
 {% include base_path %}
 
-<p style="text-align: justify;">
 
 ### Education
 
@@ -46,7 +45,6 @@ author_profile: true
 * *Responsibilities:* Conducting theoretical nuclear physics research and 
   serving as a teaching assistant for numerous undergraduate and graduate-level physics classes 
 
-</p>
 
 
 <!-- * Summer 2015: Research Assistant

@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 ### University of Notre Dame, Indiana:
 
 ### Summer 2016:
@@ -22,6 +23,7 @@ author_profile: true
 ### Spring 2018, 2019:
 - PHYS 132: Introductory Physics II (introductory level)
 - PHYS 303: Advanced Electromagnetism (advanced level)
+
 
 <!-- {% include base_path %}
 
