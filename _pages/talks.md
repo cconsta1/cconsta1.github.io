@@ -5,7 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Talks and Conference Presentations
 
 ### 2022
 
