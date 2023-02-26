@@ -22,7 +22,7 @@ learning to predict the age and sex of skeletons. I also held
 the position of a Computational Scientist 
 at the 
 <a href="http://castorc.cyi.ac.cy/">Department of Computation-based Science and Technology Research Center</a>, 
-also at The Cyprus Institute, until 2022. <br>
+also at The Cyprus Institute, until 2022. <br> <br>
 
 
 My research focuses on using agent-based modeling to study the migration 
@@ -37,7 +37,7 @@ then used in web applications to help make predictions on
 unknown skeletons. An example of such a service is 
 <a href="http://sexest.cyi.ac.cy/">SexEst</a>, 
 a web application we developed that uses machine learning to predict 
-the sex of skeletal remains based on metric measurements. <br>
+the sex of skeletal remains based on metric measurements. <br> <br>
 
 
 I'm also responsible for work package 6 (training and demonstrators) 
@@ -55,7 +55,7 @@ NI4OS-Europe is a critical infrastructure project that
 aims to accelerate the uptake of open science in the region. 
 My role in work package 6 involves developing training 
 materials and demonstrations, and to help researchers 
-effectively onboard their services onto the cloud. <br>
+effectively onboard their services onto the cloud. <br> <br>
 
 
 Additionally, I'm a code contributor to 
@@ -66,7 +66,7 @@ offers a wide range of tools and features, including 3D
 model previewers, which are essential for researchers 
 working with 3D models. My main contribution to the project is 
 in creating 3D model previewers, which allow researchers to 
-easily visualize their models. <br>
+easily visualize their models. <br> <br>
 
 
 
@@ -83,7 +83,7 @@ the structure of nuclei such as <sup>6</sup>He, <sup>7</sup>Li, and <sup>7</sup>
 which are important in stellar burning 
 processes but also in low-energy nuclear reactions. 
 Due to my exposure to machine learning, I am also interested in 
-using machine learning in nuclear physics. <br>
+using machine learning in nuclear physics. <br> <br>
 
 
 To summarize, I’m interested in using theoretical and computational techniques to 
@@ -91,7 +91,7 @@ solve problems related to nuclear physics (and physics in general), in using mac
 learning techniques on any available dataset, and, finally, 
 I’m fascinated by 3D models and their use in 
 websites and games. You can find an example of such usage
-in <a href="https://threejs-car-physics-demo.vercel.app/">this</a> web app. <br>
+in <a href="https://threejs-car-physics-demo.vercel.app/">this</a> web app. <br> <br>
 
 
 Thank you for visiting my page, and please feel free to reach 
