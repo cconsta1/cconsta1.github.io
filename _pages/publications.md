@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Refereed Articles
+## Refereed Articles
 
 ### 2023
 
@@ -39,14 +39,14 @@ Mark Caprio, Fengqiao Luo, Ke Cai, Veerle Hellemans, **Chrysovalantis Constantin
 - **[Characterization of the neutron flux distribution at the Athens Tandem Accelerator NCSR "Demokritos"](https://doi.org/10.1016/j.nimb.2011.04.015)** \
 R. Vlastou, M. Kokkoris, M. Diakaki, **Chrysovalantis Constantinou**, C. A. Kalfas, A. Kotrotsou, A. Lagoyannis, M. Lambrou, V. Loizou, E. Mara, V. Paneta, G. Provatas, A. Tsinganis. In _Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms_ 2011
 
-### Conference Proceedings
+## Conference Proceedings
 
 ### 2012
 
 - **[Generalized seniority in a major shell with realistic interactions](https://doi.org/10.1063/1.4759401)** \
 Mark Caprio, Fengqiao Luo, Ke Cai, Veerle Hellemans, **Chrysovalantis Constantinou**. In _Beauty in Physics: Theory and Experiment, ed. R. Bijker et al., AIP Conference Proceedings_ 2012
 
-### Doctoral Dissertation
+## Doctoral Dissertation
 
 ### 2017
 
