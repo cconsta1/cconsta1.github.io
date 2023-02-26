@@ -23,7 +23,7 @@ author_profile: true
 
 ## Spring 2018, 2019:
 - PHYS 132: Introductory Physics II (introductory level)
-- PHYS 303: Advanced Electromagnetism (advanced level, topics include Maxwell's equations, electric and magnetic fields, and electromagnetic waves)
+- PHYS 303: Advanced Electromagnetism (advanced level)
 
 
 
