@@ -34,7 +34,7 @@ More specifically, we're using machine learning techniques
 on bone datasets to build models that predict the age, sex, and other properties 
 of skeletons based on metric or ordinal measurements. The constructed models are 
 then used in web applications to help make predictions on 
-unknown skeletons. An example of such a service is 
+unknown skeletons. An example of such an application is 
 <a href="http://sexest.cyi.ac.cy/">SexEst</a>, 
 a web application we developed that uses machine learning to predict 
 the sex of skeletal remains based on metric measurements. <br> <br>
@@ -54,8 +54,11 @@ available for citizens and researchers in Europe.
 NI4OS-Europe is a critical infrastructure project that 
 aims to accelerate the uptake of open science in the region. 
 My role in work package 6 involves developing training 
-materials and demonstrations, and to help researchers 
-effectively onboard their services onto the cloud. <br> <br>
+material, designing and implementing use-cases, helping researchers 
+effectively onboard their services onto the cloud, and 
+organizing workshops that cover topics such as 
+data management, open science principles, and FAIR data
+principles. <br> <br>
 
 
 Additionally, I'm a code contributor to 
@@ -82,16 +85,24 @@ high-performance computing to study
 the structure of nuclei such as <sup>6</sup>He, <sup>7</sup>Li, and <sup>7</sup>Be, 
 which are important in stellar burning 
 processes but also in low-energy nuclear reactions. 
-Due to my exposure to machine learning, I am also interested in 
+Due to my recent exposure to machine learning, I am also interested in 
 using machine learning in nuclear physics. <br> <br>
 
 
-To summarize, I’m interested in using theoretical and computational techniques to 
-solve problems related to nuclear physics (and physics in general), in using machine 
-learning techniques on any available dataset, and, finally, 
-I’m fascinated by 3D models and their use in 
-websites and games. You can find an example of such usage
-in <a href="https://threejs-car-physics-demo.vercel.app/">this</a> web app. <br> <br>
+In summary, my research interests include the 
+application of theoretical and computational 
+techniques to solve problems related to nuclear 
+physics and physics in general, as well 
+as the use of machine learning techniques on diverse datasets. 
+In addition, I am fascinated by the use of 3D 
+models and their applications in various contexts, 
+including websites and games. 
+You can see an example of 
+this in the 
+<a href='https://threejs-car-physics-demo.vercel.app/'>Three.js car physics demo</a> 
+web app. Finally, I'm also fascinated by the use of agent-based 
+modeling to study the migration patterns 
+of ancient populations.
 
 
 Thank you for visiting my page, and please feel free to reach 
