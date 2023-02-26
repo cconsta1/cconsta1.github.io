@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Chrysovalantis Constantinou"
   avatar           : "profile_pool.jpeg"
-  bio              : "A theoretical nuclear physicist lost in thoughts and projects"
-  employer         : "The Cyprus Institute, Nicosia, Cyprus"
-  #location         : "Nicosia, Cyprus"
+  bio              : "I am a theoretical nuclear physicist who enjoys diving into challenging 
+  projects and exploring complex ideas"
+  employer         : "The Cyprus Institute"
+  location         : "Nicosia, Cyprus"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=b3hMHhAAAAAJ&hl=en&authuser=1"
   email            : "cconsta1@alumni.nd.edu"
