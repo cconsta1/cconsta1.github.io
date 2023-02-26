@@ -13,12 +13,16 @@ redirect_from:
 Hello and welcome to my page! I'm Chrysovalantis Constantinou, 
 an Associate Research Scientist at 
 The Science and Technology in Archaeology and Culture 
-Research Center of [The Cyprus Institute](https://www.cyi.ac.cy/). 
-My PI is Associate Professor [Efthymia Nikita](https://cyi.academia.edu/EfthymiaNikita), 
+Research Center of <a href="https://www.cyi.ac.cy/">The Cyprus Institute</a>. 
+My PI is Associate 
+Professor <a href="https://cyi.academia.edu/EfthymiaNikita">Efthymia Nikita</a>, 
 and together we're using agent-based modeling to study the migration patterns 
 of ancient populations and machine 
 learning to predict the age and sex of skeletons. Previously,
-I was a Computational Scientist at the [Department of Computation-based Science and Technology Research Center](http://castorc.cyi.ac.cy/), also at The Cyprus Institute. 
+I was a Computational Scientist 
+at the 
+<a href="http://castorc.cyi.ac.cy/">Department of Computation-based Science and Technology Research Center</a>, 
+also at The Cyprus Institute. <br\>
 
 
 My research focuses on using agent-based modeling to study the migration 
