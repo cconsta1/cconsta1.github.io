@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ 
+<p style="text-align: justify;">
 
 Hello and welcome to my page! I'm Chrysovalantis Constantinou, 
 an Associate Research Scientist at 
@@ -81,6 +83,8 @@ in [this](https://threejs-car-physics-demo.vercel.app/) web app.
 Thank you for visiting my page, and please feel free to reach 
 out if you have any questions or if you're 
 interested in collaborating on any of my ongoing research projects.
+
+</p>
 
 
 <!-- A data-driven personal website
