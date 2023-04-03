@@ -10,8 +10,8 @@ author_profile: true
 
 ### 2023
 
-- **AgeEst: An open access web application for skeletal age-at-death estimation employing machine learning** \
-**Chrysovalantis Constantinou**, Maria-Eleni Chovalopoulou, Efthymia Nikita. _Forensic Science International: Reports_ (submitted)
+- **[AgeEst: An open access web application for skeletal age-at-death estimation employing machine learning](https://doi.org/10.1016/j.fsir.2023.100317)** \
+**Chrysovalantis Constantinou**, Maria-Eleni Chovalopoulou, Efthymia Nikita. _Forensic Science International: Reports_ 2023
 
 ### 2022
 
