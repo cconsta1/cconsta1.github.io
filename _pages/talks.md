@@ -15,7 +15,7 @@ author_profile: true
 
 - Presentation: **FAIR data and FAIR principles** for the **NI4OS-Europe End-Users training event** at the Cyprus Institute, Nicosia, Cyprus, June 2022
 
-- Conference: **[Deploying Machine Learning Models for Forensic Anthropological Applications with Docker and Streamlit](https://docker.events.cube365.net/dockercon/2022/content/Videos/2f0855fc-4719-4925-89c1-3f25e68e7aa6)** for **DockerCon 2022** at the Docker Conference, Virtual, USA, May 2022
+- Conference: **[Deploying Machine Learning Models for Forensic Anthropological Applications with Docker and Streamlit](https://www.youtube.com/watch?v=2vbDedtCQgY&list=PLkA60AVN3hh87E8CzBaxngP0VBqtk04oP&index=2)** for **DockerCon 2022** at the Docker Conference, Virtual, USA, May 2022
 
 ### 2020
 
