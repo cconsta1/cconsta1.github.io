@@ -8,6 +8,11 @@ author_profile: true
 
 ### Refereed Articles
 
+### 2024
+
+- **[Testing the accuracy of the SexEst software for sex estimation in a modern Greek sample](https://doi.org/10.1002/oa.3283)** \
+Paraskevi-Anna Nikita, Nefeli Garoufi, Eustratios Valakos, **Chrysovalantis Constantinou**, Efthymia Nikita, Maria-Eleni Chovalopoulou. _International Journal of Osteoarchaeology_ 2024
+
 ### 2023
 
 - **[AgeEst: An open access web application for skeletal age-at-death estimation employing machine learning](https://doi.org/10.1016/j.fsir.2023.100317)** \

@@ -5,9 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2024
+
+- Conference: **Linking Ancient Cities: Network Analysis of the Roman Transportation System** at the **American Physical Society April Meeting** in Sacramento & Virtual, California, April 2024
+
+
 ### 2022
 
-- Invited talk: **NI4OS-Europe via an example service: SexEst** for the **Hungarian Open Science Forum**, Virtual, Hungary, October 2022 
+- Invited talk: **NI4OS-Europe via an example service: SexEst** for the **Hungarian Open Science Forum** in Hungary & Virtual, October 2022 
 
 
 - Conference:  **Open access web application for metric skeletal sex estimation** at the **EOSC Regional Event** in Budapest, Hungary, September 2022
