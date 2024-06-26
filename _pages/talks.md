@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2024
 
-- Conference: **Linking Ancient Cities: Network Analysis of the Roman Transportation System** at the **American Physical Society April Meeting** in Sacramento & Virtual, California, April 2024
+- Conference: **[Linking Ancient Cities: Network Analysis of the Roman Transportation System](https://meetings.aps.org/Meeting/APR24/Session/DD03.3)** at the **American Physical Society April Meeting** in Sacramento & Virtual, California, April 2024
 
 
 ### 2022
