@@ -32,7 +32,7 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 # Changes to the Profile Icons (cconsta1 June, 2024)
 
-To integrate Kaggle profile icons into the author profiles, follow these steps:
+To integrate, for example, Kaggle profile icons into the author profiles, follow these steps:
 
 1. **Navigate to the Author Profile HTML**:
    - Open the `_includes` directory from the root of your project.
@@ -44,9 +44,5 @@ To integrate Kaggle profile icons into the author profiles, follow these steps:
 
 ```html
 {% if author.kaggle %}
-  <li>
-    <a href="https://www.kaggle.com/{{ author.kaggle }}">
-      <i class="fa-brands fa-kaggle"></i> Kaggle
-    </a>
-  </li>
-{% endif %}
+    <li><a href="https://www.kaggle.com/{{ author.kaggle }}"><i class="fab fa-kaggle"></i>  Kaggle</a></li>
+{% endif %} 
