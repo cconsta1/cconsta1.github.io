@@ -29,3 +29,24 @@ See more info at https://academicpages.github.io/
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
 To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+
+# Changes to the Profile Icons (cconsta1 June, 2024)
+
+To integrate Kaggle profile icons into the author profiles, follow these steps:
+
+1. **Navigate to the Author Profile HTML**:
+   - Open the `_includes` directory from the root of your project.
+   - Find and open the `author-profile.html` file.
+
+2. **Add Kaggle Profile Section**:
+   - Locate the section where social media icons are defined. This is typically within an unordered list (`<ul>`).
+   - Insert the following code snippet at the appropriate position within the list to add a Kaggle icon linked to the author's Kaggle profile:
+
+```html
+{% if author.kaggle %}
+  <li>
+    <a href="https://www.kaggle.com/{{ author.kaggle }}">
+      <i class="fa-brands fa-kaggle"></i> Kaggle
+    </a>
+  </li>
+{% endif %}
