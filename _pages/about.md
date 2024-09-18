@@ -11,7 +11,8 @@ redirect_from:
 <p style="text-align: justify;">
 
 Hello and welcome to my page! I'm Chrysovalantis Constantinou, 
-a Postdoctoral Research Fellow in Medical Imaging AI at the Computation-based Science and Technology Research Center (CaSToRC) of <a href="https://www.cyi.ac.cy/">The Cyprus Institute</a>. My research focuses on applying artificial intelligence and machine learning techniques to medical imaging, specifically in building predictive models from MRI scans. 
+a Postdoctoral Research Fellow in Medical Imaging AI at the Computation-based Science and Technology Research Center (CaSToRC) of <a href="https://www.cyi.ac.cy/">The Cyprus Institute</a>. My research focuses on applying artificial 
+intelligence and machine learning techniques to medical imaging, specifically in building predictive models from MRI scans. <br> <br>
 
 
 Previously, I was an Associate Research Scientist at the Science and Technology in Archaeology and Culture Research Center, also at The Cyprus Institute, where my research applied computational science to machine learning and simulation problems, focusing on material classification and medical imaging using transfer learning. I developed data science web applications, such as <a href="http://sexest.cyi.ac.cy/">SexEst</a> and <a href="https://ageest.hpcf.cyi.ac.cy/">AgeEst</a>, to estimate the sex and age-at-death of ancient skeletons. <br> <br>
