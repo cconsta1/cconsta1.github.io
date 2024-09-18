@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "About"
 excerpt: "About"
@@ -29,4 +29,33 @@ My skills include high-performance computing, machine learning (<a href="https:/
 Thank you for visiting my page, and please feel free to reach out if you have any questions or if you're interested in collaborating on any of my ongoing research projects.
 
 </p>
+ -->
 
+---
+permalink: /
+title: "About"
+excerpt: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<p style="text-align: justify;">
+
+Hello and welcome to my page! I'm Chrysovalantis Constantinou, 
+a Postdoctoral Research Fellow in Medical Imaging AI at the Computation-based Science and Technology Research Center (CaSToRC) of <a href="https://www.cyi.ac.cy/">The Cyprus Institute</a>. My research focuses on applying artificial intelligence and machine learning techniques to medical imaging, specifically in building predictive models from MRI scans. 
+
+Previously, I was an Associate Research Scientist at the Science and Technology in Archaeology and Culture Research Center of <a href="https://www.cyi.ac.cy/">The Cyprus Institute</a>, where my research applied computational science to machine learning and simulation problems, focusing on material classification and medical imaging using transfer learning. I developed data science web applications, such as <a href="http://sexest.cyi.ac.cy/">SexEst</a> and <a href="https://ageest.hpcf.cyi.ac.cy/">AgeEst</a>, to estimate the sex and age-at-death of ancient skeletons. <br> <br>
+
+Before these positions at The Cyprus Institute, I worked as a Computational Scientist, where I co-led the coordination of a large infrastructure project, <a href="https://ni4os.eu/">NI4OS-Europe</a>, which focused on promoting open science across South-Eastern Europe. This role involved helping researchers onboard services, organizing workshops, and preparing deliverables for the European Commission. I also contributed to the development of 3D model previewers for <a href="https://clowderframework.org/">Clowder</a>, a data curation platform by the University of Illinois, while conducting machine learning research. <br> <br>
+
+I hold a Ph.D. in Theoretical Nuclear Physics from the <a href="https://www.nd.edu/">University of Notre Dame</a>, where I introduced natural orbitals for no-core configuration interaction (NCCI) calculations in light nuclei, utilizing the supercomputers at <a href="https://www.nersc.gov/">NERSC</a>. I also have postdoctoral research experience at <a href="https://www.yale.edu/">Yale University</a>, where I furthered my computational studies of light nuclei. <br> <br>
+
+I have extensive teaching experience, including teaching physics at the <a href="https://www.paphosinternationalschool.com/">International School of Paphos</a>, and advanced physics courses at <a href="https://www.monmouthcollege.edu/">Monmouth College</a> and the University of Notre Dame. Additionally, I am interested in web and game development, having created 3D websites using <a href="https://nodejs.org/en">node.js</a> and <a href="https://threejs.org/">three.js</a>, and I am currently exploring <a href="https://unity.com/">Unity3D</a>. <br> <br>
+
+My skills include high-performance computing, machine learning (<a href="https://scikit-learn.org/">sklearn</a>, <a href="https://www.tensorflow.org/">TensorFlow</a>), <a href="https://www.docker.com/">Docker</a>, and data science web frameworks (<a href="https://dash.plotly.com/">Dash</a>, <a href="https://streamlit.io/">Streamlit</a>). I am passionate about expanding my software development skills and contributing to innovative science projects. <br> <br>
+
+Thank you for visiting my page, and please feel free to reach out if you have any questions or if you're interested in collaborating on any of my ongoing research projects.
+
+</p>
