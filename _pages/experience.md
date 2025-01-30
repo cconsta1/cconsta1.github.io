@@ -17,7 +17,7 @@ author_profile: true
 
 ### Appointments
 
-* **2024-present:** Postdoctoral Research Fellow in Medical Imaging AI, The Cyprus Institute, Computation-based Science and Technology Research Center 
+* **2024:** Postdoctoral Research Fellow in Medical Imaging AI, The Cyprus Institute, Computation-based Science and Technology Research Center 
   * *Responsibilities:* Applying artificial intelligence and machine learning techniques to medical imaging, with a focus on building predictive models from MRI scans.
 
 
