@@ -24,7 +24,7 @@ Before these roles, I worked as a Computational Scientist, again at the Cyprus I
 I hold a Ph.D. in Theoretical Nuclear Physics from the <a href="https://www.nd.edu/">University of Notre Dame</a>, where I introduced natural orbitals for no-core configuration interaction (NCCI) calculations in light nuclei, utilizing the supercomputers at <a href="https://www.nersc.gov/">NERSC</a>. I also have postdoctoral research experience at <a href="https://www.yale.edu/">Yale University</a>, where I furthered my computational studies of light nuclei. <br> <br>
 
 
-I have extensive teaching experience, including teaching physics at the <a href="https://www.paphosinternationalschool.com/">International School of Paphos</a>, and advanced physics courses at <a href="https://www.monmouthcollege.edu/">Monmouth College</a> and the University of Notre Dame. Additionally, I am interested in web and game development, having created 3D websites using <a href="https://nodejs.org/en">node.js</a> and <a href="https://threejs.org/">three.js</a>, and I am currently exploring <a href="https://unity.com/">Unity3D</a>. <br> <br>
+I have extensive teaching experience, including teaching physics at the <a href="https://www.paphosinternationalschool.com/">International School of Paphos</a>, and advanced physics courses at <a href="https://www.monmouthcollege.edu/">Monmouth College</a> and the University of Notre Dame. Additionally, I am interested in web and game development, having created 3D websites using <a href="https://nodejs.org/en">node.js</a> and <a href="https://threejs.org/">three.js</a>, and I am currently exploring <a href="https://unity.com/">Unity3D</a>. You can view my 3D portfolio <a href="https://portfolio3-d-wheat.vercel.app/">here</a>. <br> <br>
 
 
 
