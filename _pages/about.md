@@ -30,10 +30,8 @@ I have extensive teaching experience, including teaching physics at the <a href=
 
 My skills include high-performance computing and machine learning research, where I utilize libraries such as <a href="https://scikit-learn.org/">sklearn</a>, <a href="https://www.tensorflow.org/">TensorFlow</a>, and <a href="https://pytorch.org/">PyTorch</a> for building predictive models. I have experience in building and deploying containerized applications using <a href="https://www.docker.com/">Docker</a>, as well as developing web applications with data science frameworks like <a href="https://dash.plotly.com/">Dash</a> and <a href="https://streamlit.io/">Streamlit</a> to visualize and interact with data models. I am continuously working on expanding my software development skills and contributing to a variety of scientific projects. <br> <br>
 
-
 Thank you for visiting my page, and please feel free to reach out if you have any questions or if you're interested in collaborating with me. <br> <br>
 
-<b>I am currently looking for new job opportunities and would be happy to discuss how I can contribute to your team. I am also open to freelancing opportunities related to grant writing, web development, and data science.</b>
+<b style="background-color: black; color: white; padding: 5px;">I am currently looking for new job opportunities and would be happy to discuss how I can contribute to your team. I am also open to freelancing opportunities related to grant writing, web development, and data science.</b>
 
 </p>
-
