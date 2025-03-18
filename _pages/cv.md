@@ -9,5 +9,5 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-<embed src="https://cconsta1.github.io/files/cv_20250226.pdf" type="application/pdf" width="600px" height="800px" />
+<embed src="https://cconsta1.github.io/files/cv_20250318.pdf" type="application/pdf" width="600px" height="800px" />
 
