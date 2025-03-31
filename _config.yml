@@ -8,13 +8,83 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Chrysovalantis Constantinou"
 title_separator          : "-"
 name                     : &name "Chrysovalantis Constantinou"
 description              : &description "personal description"
-url                      : https://cconsta1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cconsta1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cconsta1/cconsta1.github.io"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile_pool.jpeg"
+  #name             : "Chrysovalantis Constantinou"
+  # pronouns         : # example: "she/her"  
+  bio              : "Physics | ML/AI | Software"
+  location         : "Cyprus"
+  # employer         : "Red Brick University"
+  # uri              : # URL
+  email            : "cconsta1@alumni.nd.edu" 
+
+  # Academic websites
+  # arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=b3hMHhAAAAAJ&hl=en&authuser=1"
+  # impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-9327-9834"
+  # semantic         : # URL
+  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
+  # scopus           : # URL
+
+  # Repositories and software development
+  # bitbucket        : # Username - Update with your username on the site
+  # codepen          : # Username
+  # dribbble         : # Username
+  github           : "cconsta1"
+  kaggle           : "cconsta1"  
+  stackoverflow    : "13393940/cconsta1?tab=profile"    
+
+  # Social media
+  # bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  # facebook         : # Username
+  # flickr           : # Username
+  # foursquare       : # Username
+  # goodreads        : # Username
+  # google_plus      : # Username
+  # keybase          : # Username
+  instagram        : "doctor_no_"
+  # lastfm           : # Username
+  linkedin         : "chrysovalantis-constantinou-532881242"
+  # mastodon         : # URL
+  # medium           : # URL
+  # pinterest        : # Username
+  # soundcloud       : # Username
+  # steam            : # Username
+  # telegram         : # URL
+  # tumblr           : # Username
+  twitter          : "doctor_no__"
+  # vine             : # Username
+  # weibo            : # Username
+  # wikipedia        : # Username
+  # xing             : # Username
+  youtube          : "doctor_no_"
+  # zhihu            : # Username
+
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+
+# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,47 +150,6 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Chrysovalantis Constantinou"
-  avatar           : "profile_pool.jpeg"
-  bio              : "Theoretical Nuclear Physicist | Data Scientist | Software Developer"
-  #employer         : "The Cyprus Institute"
-  #location         : "Nicosia, Cyprus"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=b3hMHhAAAAAJ&hl=en&authuser=1"
-  email            : "cconsta1@alumni.nd.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Chrysovalantis-Constantinou-2"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "cconsta1"
-  google_plus      :
-  keybase          :
-  instagram        : "doctor_no_"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "chrysovalantis-constantinou-532881242"
-  orcid            : "https://orcid.org/0000-0002-9327-9834"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : "13393940/cconsta1?tab=profile"
-  steam            :
-  tumblr           :
-  twitter          : "@doctor_no__"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "doctor_no_"
-  wikipedia        :
-  kaggle           : "cconsta1"
-  # opensea          : "doctor_no_"
 
 
 # Reading Files

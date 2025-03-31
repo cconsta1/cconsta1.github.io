@@ -7,7 +7,8 @@ author_profile: true
 #   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
-<embed src="https://cconsta1.github.io/files/cv_20250318.pdf" type="application/pdf" width="600px" height="800px" />
+[View/Download CV (PDF)](https://cconsta1.github.io/files/cv_20250318.pdf)
 
+---
