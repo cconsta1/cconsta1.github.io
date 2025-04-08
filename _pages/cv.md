@@ -9,6 +9,6 @@ author_profile: true
 
 {% include base_path %}
 
-[View/Download CV (PDF)](https://cconsta1.github.io/files/cv_20250407.pdf)
+[View/Download CV (PDF)](https://cconsta1.github.io/files/cv_20250408.pdf)
 
 ---
