@@ -1,6 +1,6 @@
 ---
 title: "Can a Single Proton Be Excited? And the Neutron Lifetime Puzzle"
-date: 2025-04-10
+date: 2025-04-13
 permalink: /posts/2025/04/proton-excitations-and-neutron-puzzle/
 tags:
   - particle physics
