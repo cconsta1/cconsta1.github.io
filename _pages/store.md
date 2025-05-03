@@ -66,7 +66,7 @@ A woman sits just behind the ropes of a boxing ring, eyes locked on the fighter 
 Tense, vulnerable, and unflinchingly present.
 
 - **Available as**: Art Print  
-- **Price**: €60  
+- **Indicative Price**: €60  
 
 ---
 
@@ -77,7 +77,7 @@ An elegant woman with a halo and closed eyes, painted in golds, blues, and purpl
 Calm, radiant, and iconic.
 
 - **Available as**: Postcard or Poster  
-- **Price**: €5 each / €60  
+- **Indicative Price**: €5 each / €60  
 
 ---
 
