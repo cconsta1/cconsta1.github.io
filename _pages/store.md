@@ -11,17 +11,17 @@ This page is a **work in progress**, but I'm happy to share that **my first sale
 One of my works is also on display and for sale at the Volterra art gallery in Italy:  
 [A Dystopian Beauty](https://www.lojeloartgallery.com/product-page/a-dystopian-beauty). 
 
-I'm currently exploring the best way to handle **printing, shipping, and packaging**. Everything here is created by me — blending photography, generative art, algorithmic logic, and machine learning.
+I'm currently exploring the best way to handle **printing, shipping, and packaging**. Everything here is created by me, blending photography, generative art, algorithmic logic, and machine learning.
 
 ---
 
 ## How it works
 
 All prints are **made to order**, and each request is handled individually.  
-Items like postcards, posters, stickers, mugs, and t-shirts are processed through a local print shop, so please allow time for preparation and dispatch.
+Items like postcards, posters, stickers, mugs, and t-shirts are processed through local print shops, so please allow time for preparation and dispatch.
 
 I'm still experimenting and figuring out what's feasible based on interest.  
-Custom formats (e.g., canvas, framing, wearable art) are welcome — just get in touch. Framed prints may take 1–2 months to deliver.
+Custom formats (e.g., canvas, framing, wearable art) are welcome - just get in touch. Framed prints may take 2–3 months to deliver.
 
 ---
 
@@ -54,9 +54,6 @@ I'll keep this gallery updated. You can also browse more on [Instagram](https://
 A poised woman prepares for a dance on a distant exoplanet, radiating elegance in a fractured world.  
 **Exhibited at Volterra, Italy (Feb 2025).**
 
-- **Available as**: Art Print  
-- **Indicative Price**: €60  
-
 ---
 
 ### _Thrilla In Manilla_
@@ -64,9 +61,6 @@ A poised woman prepares for a dance on a distant exoplanet, radiating elegance i
 
 A woman sits just behind the ropes of a boxing ring, eyes locked on the fighter she loves.  
 Tense, vulnerable, and unflinchingly present.
-
-- **Available as**: Art Print  
-- **Indicative Price**: €60  
 
 ---
 
@@ -76,8 +70,27 @@ Tense, vulnerable, and unflinchingly present.
 An elegant woman with a halo and closed eyes, painted in golds, blues, and purples.  
 Calm, radiant, and iconic.
 
-- **Available as**: Postcard or Poster  
-- **Indicative Price**: €5 each / €60  
+---
+
+### _Curly Blonde_
+![Curly Blonde](https://cconsta1.github.io/files/curly_blonde.png)
+
+Curly blonde woman with lush hair made of dots in a futuristic city of dotted flowers.
+
+---
+
+## 📦 Print Options & Pricing
+
+- **Postcard prints** (18x13 cm): Only available in sets of 12 for €60 (signed, shipping included worldwide).
+- **Posters** (32x45 cm): €120 (signed, shipping included worldwide).
+- **Matt PP Posters**: €140 (sizes upon request, signed, shipping included worldwide).
+- **Digital prints**: Custom digital files for self-printing (any size, e.g., 40x50 cm, 60x70 cm, etc.) are available for a flat price of €60 each.
+- *For other sizes or products (t-shirts, mugs, etc.), prices will be higher — please ask for a quote. These are possible in principle.*
+- *Prices may differ depending on client needs and might be higher.*
+
+All commissions require a **€30 deposit** (mandatory).
+
+I collaborate with two professional printing shops for quality results. For framing (in collaboration with two local shops), waiting time is at least two months and cost will start at €500 or above (with a **€100 deposit**).
 
 ---
 
