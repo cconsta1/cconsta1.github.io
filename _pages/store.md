@@ -6,12 +6,12 @@ author_profile: true
 published: true
 ---
 
-This page is a **work in progress**, but I'm happy to share that **my first sale just went through**!  
+This page is a **work in progress**, but I'm happy to share that **my first few sales just went through**!  
 
 One of my works is also on display and for sale at the Volterra art gallery in Italy:  
 [A Dystopian Beauty](https://www.lojeloartgallery.com/product-page/a-dystopian-beauty). 
 
-I'm currently exploring the best way to handle **printing, shipping, and packaging**. Everything here is created by me, blending photography, generative art, algorithmic logic, and machine learning.
+I'm still exploring the best way to handle **printing, shipping, and packaging** but I'm doing my best to satisfy each and every one of you. All art work is created by me in digital form, blending photography, generative art, algorithmic logic, and machine learning.
 
 ---
 
@@ -21,7 +21,7 @@ All prints are **made to order**, and each request is handled individually.
 Items like postcards, posters, stickers, mugs, and t-shirts are processed through local print shops, so please allow time for preparation and dispatch.
 
 I'm still experimenting and figuring out what's feasible based on interest.  
-Custom formats (e.g., canvas, framing, wearable art) are welcome - just get in touch. Framed prints may take 2–3 months to deliver.
+Custom formats (e.g., canvas, framing, wearable art) are welcome - just get in touch. Framed prints may take 3–6 months to deliver.
 
 ---
 
@@ -81,16 +81,17 @@ Curly blonde woman with lush hair made of dots in a futuristic city of dotted fl
 
 ## 📦 Print Options & Pricing
 
-- **Postcard prints** (18x13 cm): Only available in sets of 12 for €60 (signed, shipping included worldwide).
-- **Posters** (32x45 cm): €120 (signed, shipping included worldwide).
-- **Matt PP Posters**: €140 (sizes upon request, signed, shipping included worldwide).
-- **Digital prints**: Custom digital files for self-printing (any size, e.g., 40x50 cm, 60x70 cm, etc.) are available for a flat price of €60 each.
-- *For other sizes or products (t-shirts, mugs, etc.), prices will be higher — please ask for a quote. These are possible in principle.*
-- *Prices may differ depending on client needs and might be higher.*
+- **Postcard prints**: Only available in sets of 12, from €100 (signed, shipping included worldwide).
+- **Posters**: From €150 for prints on standard poster paper (all posters are signed and can be shipped worldwide).
+- **Matt PP Posters**: From €200 (sizes available upon request, signed, shipping included worldwide).
+- **Fine art prints**: From €300 and above, please ask for availability.
+- **Digital prints**: Custom digital files for self-printing are available starting at €80 each (any aspect ratio is possible, please ask).
+- *For other sizes or products (t-shirts, mugs, etc.), prices will be higher — please ask for a quote.*
+- *Prices may vary depending on client needs.*
 
-All commissions require a **€30 deposit** (mandatory).
+All commissions require a **€50 deposit** (mandatory).
 
-I collaborate with two professional printing shops for quality results. For framing (in collaboration with two local shops), waiting time is at least two months and cost will start at €500 or above (with a **€100 deposit**).
+I collaborate with two professional printing shops for quality results. For framing (in collaboration with two local shops), waiting time is at least two months and cost will start at €800 or above (with a **€100 deposit**).
 
 ---
 

@@ -8,6 +8,13 @@ author_profile: true
 
 ### Refereed Articles
 
+
+### 2025
+
+- **[Skeletal Sex Estimation for Human Remains From Archaeological Contexts: Machine Learning Models Based on Ancient Dion, Greece](https://doi.org/10.1002/oa.70014)** \
+**Chrysovalantis Constantinou**,  Efthymia Nikita,  Paraskevi Tritsaroli. _International Journal of Osteoarchaeology_ 2025
+
+
 ### 2024
 
 - **[Testing the accuracy of the SexEst software for sex estimation in a modern Greek sample](https://doi.org/10.1002/oa.3283)** \
