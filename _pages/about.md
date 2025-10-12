@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my page! I'm Chrysovalantis Constantinou, 
-most recently a Postdoctoral Research Fellow in Medical Imaging AI at the Computation-based Science and Technology Research Center (CaSToRC) of [The Cyprus Institute](https://www.cyi.ac.cy/). My research focused on applying artificial 
+Hello and welcome to my page! My name is Chrysovalantis Constantinou, I was most recently a Postdoctoral Research Fellow in Medical Imaging AI at the Computation-based Science and Technology Research Center (CaSToRC) of [The Cyprus Institute](https://www.cyi.ac.cy/). My research focused on applying artificial 
 intelligence and machine learning techniques to medical imaging, specifically in building predictive models from MRI scans and Dental X-ray images.
 
 Previously, I was an Associate Research Scientist at the Science and Technology in Archaeology and Culture Research Center, also at The Cyprus Institute, where my research applied computational science to machine learning and simulation problems, focusing on material classification, forensic imaging using transfer learning, as well as complexity theory for studying the mobility of ancient peoples in the Eastern Mediterranean. 
