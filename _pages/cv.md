@@ -2,13 +2,10 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+description: "Curriculum vitae (PDF) for Chrysovalantis Constantinou."
 author_profile: true
 # redirect_from:
 #   - /resume
 ---
 
-{% include base_path %}
-
-[View/Download CV (PDF)](https://cconsta1.github.io/files/cv_20250721.pdf)
-
----
+[View / Download CV (PDF)](/files/cv_academic_20251217.pdf)

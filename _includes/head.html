@@ -2,9 +2,38 @@
 
 <meta charset="utf-8">
 
-{% include seo.html %}
+{% seo %}
 
+{% if page.robots %}
+<meta name="robots" content="{{ page.robots }}">
+{% endif %}
+
+{% if site.atom_feed.hide != true %}
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.name | default: site.title }}",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "jobTitle": "Researcher",
+  "affiliation": [
+    {"@type": "Organization", "name": "The Cyprus Institute"},
+    {"@type": "Organization", "name": "University of Notre Dame"},
+    {"@type": "Organization", "name": "Yale University"}
+  ],
+  "sameAs": {{ site.social.links | jsonify }},
+  "knowsAbout": [
+    "Computational physics",
+    "Machine learning",
+    "Scientific computing",
+    "Medical imaging",
+    "Ab initio nuclear theory"
+  ]
+}
+</script>
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">

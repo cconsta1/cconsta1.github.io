@@ -11,8 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Chrysovalantis Constantinou"
 title_separator          : "-"
+tagline                  : "Physics & Machine Learning"
 name                     : &name "Chrysovalantis Constantinou"
-description              : &description "personal description"
+description              : &description "Academic research in machine learning and computational physics."
 url                      : https://cconsta1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cconsta1/cconsta1.github.io"
@@ -24,6 +25,7 @@ author:
   # Biographic information
   avatar           : "profile_pool.jpeg"
   #name             : "Chrysovalantis Constantinou"
+  name             : "Chrysovalantis Constantinou"
   # pronouns         : # example: "she/her"  
   bio              : "Physics | ML/AI | Software"
   location         : "Cyprus"
@@ -35,10 +37,10 @@ author:
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=b3hMHhAAAAAJ&hl=en&authuser=1"
   # impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-9327-9834"
+  # orcid            : # URL (optional; keep in footer only if desired)
   # semantic         : # URL
   # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Chrysovalantis-Constantinou-2"
+  # researchgate     : # URL
   # scopus           : # URL
 
   # Repositories and software development
@@ -46,8 +48,8 @@ author:
   # codepen          : # Username
   # dribbble         : # Username
   github           : "cconsta1"
-  kaggle           : "cconsta1"  
-  stackoverflow    : "13393940/cconsta1?tab=profile"    
+  # kaggle           : # Username
+  # stackoverflow    : # Username
 
   # Social media
   # bluesky          : #"bsky.app" # Replace this with you Bluesky username
@@ -57,7 +59,7 @@ author:
   # goodreads        : # Username
   # google_plus      : # Username
   # keybase          : # Username
-  instagram        : "doctor_no_"
+  # instagram        : # Username
   # lastfm           : # Username
   linkedin         : "chrysovalantis-constantinou-532881242"
   # mastodon         : # URL
@@ -67,12 +69,12 @@ author:
   # steam            : # Username
   # telegram         : # URL
   # tumblr           : # Username
-  twitter          : "doctor_no__"
+  # twitter          : # Username
   # vine             : # Username
   # weibo            : # Username
   # wikipedia        : # Username
   # xing             : # Username
-  youtube          : "doctor_no_"
+  # youtube          : # Username
   # zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -118,7 +120,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -140,9 +142,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Chrysovalantis Constantinou"
+  links:
+    - "https://scholar.google.com/citations?user=b3hMHhAAAAAJ&hl=en&authuser=1"
+    - "https://github.com/cconsta1"
+    - "https://www.linkedin.com/in/chrysovalantis-constantinou-532881242/"
 
 
 # Analytics
@@ -236,10 +241,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      robots: noindex
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -254,8 +260,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -263,8 +269,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -272,7 +278,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -281,7 +287,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
@@ -299,18 +305,18 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
-  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji

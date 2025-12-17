@@ -2,6 +2,7 @@
 title: "Site Fully Upgraded to the New Academic Template"
 date: 2025-03-31
 permalink: /posts/2025/03/site-upgrade/
+published: false
 tags:
   - jekyll
   - academicpages

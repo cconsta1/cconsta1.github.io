@@ -2,6 +2,7 @@
 title: "Art Week Volterra 2025"
 date: 2025-04-08
 permalink: /posts/2025/04/volterra-announcement/
+published: false
 categories:
   - art
   - exhibitions

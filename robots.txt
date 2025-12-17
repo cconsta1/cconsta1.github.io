@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /posts/
+Disallow: /year-archive/
+Disallow: /tags/
+Disallow: /store/
+
+Sitemap: https://cconsta1.github.io/sitemap.xml
