@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Chrysovalantis Constantinou is a researcher in computational physics and machine learning. He was most recently a Postdoctoral Research Fellow in Medical Imaging AI at the Computation-based Science and Technology Research Center (CaSToRC), The Cyprus Institute, working on predictive modeling from MRI and dental X-ray data.
+Chrysovalantis Constantinou is an interdisciplinary nuclear physicist working in ab initio nuclear theory, machine learning, and scientific software development. His research spans computational many-body methods for nuclear structure and applied machine learning in physics, medical imaging AI, and osteoarchaeology.
 
-Previously, he held research appointments at The Cyprus Institute (STARC) and conducted postdoctoral research at Yale University. He received a PhD in Theoretical Nuclear Physics from the University of Notre Dame, focusing on ab initio nuclear structure calculations and high-performance scientific computing, with research interests spanning ab initio nuclear theory and applied machine learning for quantitative modeling.
+He has held research appointments at The Cyprus Institute and Yale University, and has been a visiting researcher at Université Libre de Bruxelles. He earned a PhD in Physics from the University of Notre Dame. He has contributed to projects spanning fundamental physics, applied machine learning, and open-science initiatives.

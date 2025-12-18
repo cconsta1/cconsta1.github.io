@@ -232,6 +232,24 @@
         justify-content: center;
         cursor: pointer;
       }
+
+      /* On small screens the hamburger button can overlap the theme toggle.
+         Pin the toggle into the masthead (left of the hamburger) so it's always accessible. */
+      @include breakpoint(max-width $small) {
+        position: absolute;
+        top: 0;
+        right: 3.25rem;
+        height: 2.5rem;
+        display: flex;
+        align-items: center;
+        z-index: 101;
+
+        a {
+          margin: 0;
+          padding: 0 0.5rem;
+          width: auto;
+        }
+      }
     }
 
     a {
