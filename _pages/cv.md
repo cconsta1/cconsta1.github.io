@@ -8,4 +8,4 @@ author_profile: true
 #   - /resume
 ---
 
-[View / Download CV (PDF)](/files/cv_academic_20251217.pdf)
+[View / Download CV (PDF)](/files/cv_academic_20251218.pdf)
