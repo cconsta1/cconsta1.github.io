@@ -16,7 +16,7 @@ author_profile: true
 
 ### Earlier Publications
 
-- **Natural orbital description of the halo nucleus 6He**, _Nuclear Science and Techniques_, 2017
+- **Natural orbital description of the halo nucleus <sup>6</sup>He**, _Nuclear Science and Techniques_, 2017
 - **Generalized seniority with realistic interactions in open-shell nuclei**, _Journal of Physics G: Nuclear and Particle Physics_, 2012
 - **Generalized seniority for the shell model with realistic interactions**, _Physical Review C_, 2012
 - **Characterization of the neutron flux distribution at the Athens Tandem Accelerator NCSR “Demokritos”**, _Nuclear Instruments and Methods in Physics Research Section B_, 2011
