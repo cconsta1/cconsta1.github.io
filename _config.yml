@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Chrysovalantis Constantinou"
 title_separator          : "-"
-tagline                  : "Physics & Machine Learning"
+tagline                  : "Theoretical Nuclear Physicist"
 name                     : &name "Chrysovalantis Constantinou"
-description              : &description "Academic research in machine learning and computational physics."
+description              : &description "Chrysovalantis Constantinou, theoretical nuclear physicist and independent researcher in nuclear structure and machine learning."
 url                      : https://cconsta1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cconsta1/cconsta1.github.io"
@@ -27,7 +27,7 @@ author:
   #name             : "Chrysovalantis Constantinou"
   name             : "Chrysovalantis Constantinou"
   # pronouns         : # example: "she/her"  
-  bio              : "Physics | ML/AI | Software"
+  bio              : "Theoretical Nuclear Physicist | ML/AI | Software"
   location         : "Cyprus"
   # employer         : "Red Brick University"
   # uri              : # URL
@@ -35,7 +35,7 @@ author:
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=b3hMHhAAAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?user=b3hMHhAAAAAJ"
   # impactstory      : # URL
   # orcid            : # URL (optional; keep in footer only if desired)
   # semantic         : # URL
@@ -74,7 +74,7 @@ author:
   # weibo            : # Username
   # wikipedia        : # Username
   # xing             : # Username
-  # youtube          : # Username
+  youtube          : "doctor_no_"
   # zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -132,8 +132,8 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
-  username               : &twitter
+# No `twitter:` block on purpose: an empty one makes jekyll-seo-tag emit an
+# invalid twitter:site="@" tag. Add it back only with a real X/Twitter handle.
 facebook:
   username               :
   app_id                 :
@@ -145,9 +145,10 @@ social:
   type                   : Person
   name                   : "Chrysovalantis Constantinou"
   links:
-    - "https://scholar.google.com/citations?user=b3hMHhAAAAAJ&hl=en&authuser=1"
+    - "https://scholar.google.com/citations?user=b3hMHhAAAAAJ"
     - "https://github.com/cconsta1"
     - "https://www.linkedin.com/in/chrysovalantis-constantinou-532881242/"
+    - "https://www.youtube.com/@doctor_no_"
 
 
 # Analytics
@@ -253,6 +254,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+      # Default Open Graph / social preview image (jekyll-seo-tag)
+      image:
+        path: /images/profile_pool.jpeg
+        width: 1070
+        height: 1086
+        alt: "Chrysovalantis Constantinou"
+      # Square portrait: use the small card so X/Twitter does not crop it
+      twitter:
+        card: summary
+  # Keep the Google Search Console verification file out of sitemap.xml
+  - scope:
+      path: "google0bbc285531eeaab6.html"
+    values:
+      sitemap: false
   # _teaching
   - scope:
       path: ""
