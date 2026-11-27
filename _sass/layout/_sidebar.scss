@@ -277,3 +277,16 @@
     }
   }
 }
+/* Sidebar links: one neutral icon colour, and Academicons sized like Font Awesome fixed-width icons */
+.author__urls.social-icons {
+  i {
+    color: inherit;
+  }
+
+  .ai {
+    width: calc(1.25em / 1.15);
+    font-size: 1.15em;
+    text-align: center;
+    vertical-align: -0.1em;
+  }
+}
