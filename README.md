@@ -6,14 +6,16 @@ This site is built with Jekyll and is based on the Academic Pages / Minimal Mist
 
 ## Local preview
 
-Install Ruby + Bundler, then:
+The easiest way on a Mac is Docker (see the Docker section below): start Docker Desktop, run `docker compose up --build`, and open `http://localhost:4000`.
+
+To run natively instead, use Ruby 3.2 (the version the GitHub Actions build uses; macOS system Ruby is too old), e.g. via `rbenv`, then:
 
 ```bash
 bundle install
 bundle exec jekyll serve
 ```
 
-The site will be available at `http://localhost:4000`.
+The site will be available at `http://localhost:4000`. Restart the server after editing `_config.yml`.
 
 ## Reuse
 

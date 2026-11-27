@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-description: "Curriculum vitae (PDF) for Chrysovalantis Constantinou."
+description: "Curriculum vitae (PDF) of Chrysovalantis Constantinou, theoretical nuclear physicist and independent researcher."
 author_profile: true
 # redirect_from:
 #   - /resume
